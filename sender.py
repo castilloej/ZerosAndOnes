@@ -38,7 +38,7 @@ class CovertChannel:
         s.close()
 
 
-MyCovert = CovertChannel('201.211.236.187', 30000)
+MyCovert = CovertChannel('', 30000)
 
 Message = input('Give me bits:')
 
